@@ -1,0 +1,2 @@
+dear reflection
+today i learned that checkout goes to the previous commit of the code and instead of incrementally making changes to the code this makes it easy to make big changes that ultimately will not break the whole project. 

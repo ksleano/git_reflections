@@ -1,0 +1,13 @@
+dear reflection
+When in a directory when you can create a new repository using the command 
+
+git init
+
+this initializes a new repository so you could do stuff with it. 
+
+git status
+
+this git command shows you the current files within the current working directory and the ones that are stages and not staged
+
+git add 
+adds files to the staging area prepping for commit
