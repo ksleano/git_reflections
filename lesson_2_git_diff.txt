@@ -1,0 +1,11 @@
+deer diaree
+
+I learned that 
+git diff
+compares files in the working directory to the staging area
+
+git diff --staged
+compares files in the staging area to the repository
+
+git diff commit1 commit2
+compares commit1 and commit2
