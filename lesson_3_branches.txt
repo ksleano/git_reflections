@@ -1,0 +1,19 @@
+deer branches
+
+git branch 
+shows the branches and the current working branch in(*)
+
+git branch [arg]
+names the branch the the passed arg
+
+git checkout [branch name] 
+changes the branch to the branch beanch lanchb blhahb
+
+git checkout -b new_branch_name
+is equivalent to using two commands
+ - git branch new_branch_name
+ - git checkout new_branch_name
+ 
+ git merge branch1 branch2
+ when merging be sure you have the either of the branch you are merging checked out
+ merging also creates a new commit that is pointing to  the most recent commits of branch1 and branch2
